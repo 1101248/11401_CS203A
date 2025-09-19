@@ -1,5 +1,4 @@
 # 11401_CS203A
-# CS203A 課程學習紀錄
 # CS203A – Data Structures
 ## Course Information
 - **Course Title:** Data Structures  
