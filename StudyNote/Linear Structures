@@ -1,0 +1,1 @@
+1. Array vs. Linked ListArray (數組)： 記憶體連續，支援隨機存取 ($O(1)$)，但插入/刪除需搬移元素 ($O(n)$)。Linked List (鏈表)： 記憶體不連續，插入/刪除快速 ($O(1)$)，但搜尋需從頭遍歷 ($O(n)$)。2. Selection Sort 實作分析HW2 (Array)： 透過索引值交換位置。HW3 (Linked List)： * Value Swapping： 僅交換節點內的數據欄位，指標結構不變。這是最穩定的作法。Node Swapping： 需處理 prev 與 next 指標，邏輯複雜但能減少大物件搬移的成本。
